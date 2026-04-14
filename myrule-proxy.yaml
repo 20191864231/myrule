@@ -1,0 +1,49 @@
+ # ===== 🌍 代理规则（Proxies） =====
+
+
+
+  # 📶 域名代理
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,api.themoviedb.org
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,api4.thetvdb.com
+  - DOMAIN-SUFFIX,123panfx.com
+  - DOMAIN-SUFFIX,image.tmdb.org
+  - DOMAIN-SUFFIX,vdownload.hembed.com
+  - DOMAIN-SUFFIX,dmhy.org
+  - DOMAIN-SUFFIX,vercel.app
+  - DOMAIN-SUFFIX,hdhive.com
+  - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,hifiti.com
+
+
+
+  # 🔍 关键词代理
+  - DOMAIN-KEYWORD,onesy
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,pica
+  - DOMAIN-KEYWORD,javlibrary
+  - DOMAIN-KEYWORD,airav
+  - DOMAIN-KEYWORD,airav
+  - DOMAIN-KEYWORD,javdb
+  - DOMAIN-KEYWORD,hbox
+  - DOMAIN-KEYWORD,airav
+  - DOMAIN-KEYWORD,nyaa
+  - DOMAIN-KEYWORD,hanime1.me
+  - DOMAIN-KEYWORD,nhentai
+  - DOMAIN-KEYWORD,hentai
+  #- DOMAIN-KEYWORD,haidan
+  - DOMAIN-KEYWORD,store.steampowered
+  - DOMAIN-KEYWORD,steamcommunity
+  - DOMAIN-KEYWORD,steamstatic
+  - DOMAIN-KEYWORD,docker.com
+  - DOMAIN-KEYWORD,docker.ketches
+  - DOMAIN-KEYWORD,twitch
+  - DOMAIN-KEYWORD,ttvnw
+  - DOMAIN-KEYWORD,z-library
+  - DOMAIN-KEYWORD,cdn-zlib
+  - DOMAIN-KEYWORD,bili.rip
+  - DOMAIN-KEYWORD,as174
+
+  # 🔍 关键词
+  - DOMAIN-KEYWORD,hdhive
