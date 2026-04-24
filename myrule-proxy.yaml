@@ -47,7 +47,6 @@ payload:
   - DOMAIN-KEYWORD,cdn-zlib
   - DOMAIN-KEYWORD,bili.rip
   - DOMAIN-KEYWORD,as174
-  - DOMAIN-KEYWORD,z-library
 
   # 🔍 关键词
   - DOMAIN-KEYWORD,hdhive
